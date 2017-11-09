@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.getwagz.client",
+    "sha256_cert_fingerprints":
+    ["4B:80:35:88:31:E4:FC:74:A7:64:C2:6C:06:3E:7D:1D:58:4C:63:A4:27:8A:DB:83:A3:A4:07:FD:BB:A7:62:06"]
+  }
+}]
